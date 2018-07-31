@@ -1,5 +1,3 @@
-### Author: Kelly Quek
-### Date: 
 ### Post analysis in R
 
 
